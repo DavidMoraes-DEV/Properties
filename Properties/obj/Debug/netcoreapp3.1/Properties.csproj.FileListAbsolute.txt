@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\ProgramasCSharp\ConceitoDeProperties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
